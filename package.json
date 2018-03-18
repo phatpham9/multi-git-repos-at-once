@@ -1,0 +1,18 @@
+{
+  "name": "multi-git-repos-at-once",
+  "version": "1.0.0",
+  "description": "do things & push to multiple git repositories at once",
+  "main": "index.js",
+  "repository": "git@github.com:phatpham9/multi-git-repos-at-once.git",
+  "author": "Phat Pham <phatpham9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.1.1",
+    "sleep": "^5.1.1",
+    "yamljs": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
