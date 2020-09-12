@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^5.0.1",
-    "node-fetch": "^2.1.1",
+    "node-fetch": "^2.6.1",
     "sleep": "^5.1.1",
     "yamljs": "^0.3.0"
   },
